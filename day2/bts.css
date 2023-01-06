@@ -1,0 +1,22 @@
+#first=paragraph{
+    font-style:bold;
+    text-align:center;
+}
+.btslogo{
+    width: 1400px;
+    height: 566px;
+    background: url('shrijaaaa.png');
+    background-size:contain;
+    
+
+}
+h1{
+    text-align:center;
+    color:red;
+    background:black;
+}
+h1{
+    margin:10px;
+    padding:20px;
+    font-size:50px;
+}

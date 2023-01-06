@@ -1,0 +1,59 @@
+body{
+    margin:10px;
+    padding:10px;
+}
+h1,h3,p,li
+h1{
+    margin:10px;
+}
+h1{
+
+    color:white;
+    text-align:center;
+    font-style:bold;
+    font-size:50px;
+    border-style: 2px black;
+    background-color:lightseagreen ;
+    padding:10px;
+    margin:10px;
+}
+p{
+    text-align:center;
+    font-size:25px;
+    font-style:bold;
+    color:indigo;
+}
+h3{
+    color:purple;
+}
+#first-paragraph{
+    color:purple;
+    font-style:bold;
+}
+.b-t-s{
+    font-size:23px;
+    font-style:italic;
+    text-decoration:underline;
+}
+ol{
+    text-align:center;
+    font-size:25px;
+    font-style:bold;
+    font-style:italic;
+}
+h2{
+    text-align:center;
+    font-size:30px;
+    font-style:bold;
+    
+}
+.box2{
+    width:1000px;
+    height:550px;
+    background:url('1.png');
+    background-repeat: no-repeat;
+    
+    
+}
+
+

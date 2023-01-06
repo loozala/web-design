@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>CSS:cascading style sheet</title>
+        <link href="style.css" rel="stylesheet">
+        <style>
+            /*selector{
+                property: value
+            }*/
+            body{
+                margin:0;
+                padding:0;
+            }
+            h1,h2,h3,h4,h5,h6,p,li,ul,ol,
+            h1{
+                margin:0;
+            }
+            h1{
+                color:black;
+                font-size:30px;
+                font-style:italic;
+            }
+            p{
+
+                color:red;
+                font-size:30px;
+                font-weight:bold;
+            }
+            #first-paragraph{
+                color:green;
+            }
+            #second-paragraph{
+                color:brown;
+            }
+            .my-own-class{
+                font-size:23px;
+                font-style:italic;
+                text-decoration:underline;
+            }
+           
+        </style>
+    </head>
+    <body>
+        <h1>CSS:cascading style sheet</h1>
+        <h2>there are three way to write CSS</h2>
+        <ol>
+            <li>inline CSS</li>
+            <li>internal CSS</li>
+            <li>external CSS</li>
+        </ol>
+        <h3> Inline CSS</h3>
+        <p id="first-paragraph">Example inline cSS</p>
+        <p  id="second-paragraph">Example cSS</p>
+
+        <p class="my-own-class">i am on the way</p>
+        <p class="my-own-class">i am on the way</p>
+
+
+    </body>
+</html>
