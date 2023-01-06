@@ -1,0 +1,104 @@
+*{
+    margin:0px;
+    padding:0px;
+
+}
+h1{
+    text-align:center;
+    color:purple;
+    background-color:pink;
+    padding:12px;
+}
+.box{
+
+    margin-top:20px;
+    display:flex;
+    width: 254px;
+    height:378px;
+    background-color:white;
+    border: purple 4px solid;
+    border-radius:7%;
+    transition:all linear 0.3s;
+    box-shadow:10px 10px 10px 5pxblack;
+    text-align:center;
+    transition-duration:all linear 0.3s;
+    box-shadow:5px 10px 15px 3px;
+}
+.box:hover{
+    background:purple;
+    color:aquamarine;
+    border-color: rgb(128, 0, 255);
+    border-radius:3px;
+    font-size:24px;
+    box-shadow:5px 10px 15px 3px;
+}
+
+
+.jm{
+    margin-top:15px;
+    width:500px;
+    height:378px;
+    background-color: white;
+    border: purple 4px solid;
+    border-radius:7%;
+    margin-left:100px;
+    background-size:contain;
+    text-align:center;
+    transition-duration:all linear 0.3s;
+    box-shadow:5px 10px 15px 3px;
+}
+.jm:hover{
+    background:purple;
+    color:aquamarine;
+    border-color: rgb(128, 0, 255);
+    border-radius:3px;
+    font-size:24px;
+    box-shadow:5px 10px 15px 3px;
+}
+.v{
+    margin-top:15px;
+    margin-left: 100px;
+    width:500px;
+    height:378px;
+    background-color: white;
+    border:purple 4px solid;
+    border-radius:7%;
+    text-align:center;
+    transition-duration:all linear 0.3s;
+    box-shadow:5px 10px 15px 3px;
+
+}
+.v:hover{
+    background:purple;
+    color:aquamarine;
+    border-color: rgb(128, 0, 255);
+    border-radius:3px;
+    font-size:24px;
+    box-shadow:5px 10px 15px 3px;
+}
+.jin{
+    margin-top:15px;
+    margin-left:100px;
+    width:500px;
+    height:378px;
+    background-color: white;
+    border: purple 4px solid;
+    border-radius:7%;
+    text-align:center;
+    transition-duration:all linear 0.3s;
+    box-shadow:5px 10px 15px 3px;
+
+}
+.jin:hover{
+    background:purple;
+    color:aquamarine;
+    border-color: rgb(128, 0, 255);
+    border-radius:3px;
+    font-size:24px;
+    box-shadow:5px 10px 15px 3px;
+}
+p{
+    padding:10px;
+    font-size:20px;
+    font-style:bold;
+}

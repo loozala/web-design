@@ -1,0 +1,51 @@
+.logo{
+    width:300px;
+    height:200px;
+    background-color:red;
+    margin:200px 600px;
+    border-radius:30%;
+    
+
+
+} 
+.circle{
+    color:green;
+    width:200px;
+    height:200px;
+    background-color:green;
+    border-top-left-radius: 100px;
+    border-top-right-radius: 100px;
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+}
+.purple-box
+{
+    width:300px;
+    height:200px;
+    background-color:purple;
+    margin:200px 600px;
+    border-radius:30%;
+    
+
+
+}
+.white-box{
+    width:300px;
+    height:150px;
+    background-color:black;
+    border-top-right-radius: 60px;
+    border-top-left-radius: 60px;
+
+}
+
+.mainbox{
+    width:500px;
+    height:300px;
+    background-color:red;
+}
+.my-box{
+    width:400px;
+    height:200px;
+    background-color:white;
+
+}
